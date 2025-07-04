@@ -191,7 +191,6 @@ Your task is to **set up secure, compliant, and productive access** to company r
    * Assign users/devices to these groups
 
    * Apply compliance/config profiles to each group
-  
 
 ---
 
@@ -203,7 +202,8 @@ Your task is to **set up secure, compliant, and productive access** to company r
 
    * Go to **Apps \> All apps \> Add**
 
-     * **Windows**: Upload Microsoft Edge  
+     * **Windows**: Upload Microsoft Edge
+     
      * **iOS/Android**: Add Outlook or Teams via store link
 
      * **macOS**: Add Microsoft Defender for Endpoint
