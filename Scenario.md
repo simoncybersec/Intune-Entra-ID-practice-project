@@ -191,6 +191,9 @@ Your task is to **set up secure, compliant, and productive access** to company r
    * Assign users/devices to these groups
 
    * Apply compliance/config profiles to each group
+  
+
+
 
 ---
 
