@@ -39,14 +39,16 @@ Your task is to **set up secure, compliant, and productive access** to company r
    * simeb20@SerFix739.onmicrosoft.com  
    * klee@SerFix739.onmicrosoft.com  
    * gsimon@SerFix739.onmicrosoft.com  
-   * [tbrown@SerFix739.onmicrosoft.com](mailto:tbrown@SerFix739.onmicrosoft.com)
-![1](C:\Users\simon\Desktop\Professional Toolkit\Project for Intune\Project Screenshots\Phase 1.png)
+   * [tbrown@SerFix739.onmicrosoft.com](mailto:tbrown@SerFix739.onmicrosoft.com)  
 
 **Note**: *Adding a user in Entra ID (formerly Azure Active Directory) is fundamentally the same as adding a user in the Microsoft 365 admin center, as they both manage the same underlying user store, which is Entra ID. When a user is created in the Microsoft 365 admin center, it's also created in Entra ID, and vice versa.* 
 
 3. **Assign Business Premium licenses**
 
    * Assign to each user during creation or afterward via “Licenses and apps.”
+  ![3](https://github.com/user-attachments/assets/fc182e6a-eeaa-4548-b90c-0f91d0ec8410)
+![4](https://github.com/user-attachments/assets/f2b6e074-8cbb-45df-9f0d-d8984154d265)
+
 
 4. **Assign Roles**  
     In **Microsoft Entra \> Roles and administrators**, assign:
@@ -56,6 +58,8 @@ Your task is to **set up secure, compliant, and productive access** to company r
    * **Dina**: AI Administrator
 
    * **Others**: Standard users
+     ![5](https://github.com/user-attachments/assets/71841756-5774-45ac-ab8e-143fd882d972)
+
 
 5. **Enable MFA for all users**
 
