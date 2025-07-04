@@ -191,7 +191,15 @@ Your task is to **set up secure, compliant, and productive access** to company r
    * Assign users/devices to these groups
 
    * Apply compliance/config profiles to each group
-  
+    ![pol21](https://github.com/user-attachments/assets/40d757a5-8df6-444b-a075-802108994548)
+    ![pol22](https://github.com/user-attachments/assets/fdbfdf03-0019-4113-b22c-280e3acad89f)
+    ![pol23](https://github.com/user-attachments/assets/1b5a0816-ba3d-4805-b4c3-cfda29411640)
+    ![pol24](https://github.com/user-attachments/assets/135baf8a-99a4-451c-a290-23bfbf4985ee)
+    ![pol25](https://github.com/user-attachments/assets/9da416e0-ac5b-449f-bef0-0bea0edf7b7a)
+    ![pol26](https://github.com/user-attachments/assets/66ed6ac3-904b-4cd5-be63-670c0912217a)
+    ![pol27](https://github.com/user-attachments/assets/0f0ee069-68f2-4be7-a5de-f2ae68e57789)
+    ![pol28](https://github.com/user-attachments/assets/587d2857-a91d-4f5d-92e1-c8873da63e80)
+    ![pol29](https://github.com/user-attachments/assets/c6ae90b4-e286-4025-95d0-b5d8b67796e9)
 
 
 ---
@@ -205,10 +213,18 @@ Your task is to **set up secure, compliant, and productive access** to company r
    * Go to **Apps \> All apps \> Add**
 
      * **Windows**: Upload Microsoft Edge
+    ![Ap1](https://github.com/user-attachments/assets/215d8040-3471-4e75-a363-d71ed10dc79a)
+    ![Ap2](https://github.com/user-attachments/assets/fb718022-1c81-4798-ab3e-798945de5570)
+    ![Ap3](https://github.com/user-attachments/assets/4258268f-3455-4325-8abe-80ca486eabed)
+    ![Ap4](https://github.com/user-attachments/assets/20788628-f253-4f8c-bd96-65c90c11977c)
+    ![Ap5](https://github.com/user-attachments/assets/b3e86991-6a54-424d-8913-bd46b17f727c)
+    ![Ap6](https://github.com/user-attachments/assets/dc53e832-d270-4052-8477-42db5da3d319)
+    ![Ap7](https://github.com/user-attachments/assets/6a49993b-d0e5-4118-b16d-5d9b9784e3f6)
      
      * **iOS/Android**: Add Outlook or Teams via store link
 
      * **macOS**: Add Microsoft Defender for Endpoint
+    
 
 2. **Set App Protection Policies**
 
@@ -223,6 +239,16 @@ Your task is to **set up secure, compliant, and productive access** to company r
        * Block copy/paste from corporate apps
 
        * Encrypt work data
+  ![Ap8](https://github.com/user-attachments/assets/7546f6c3-81a4-43a8-b62e-21672abf7b16)
+  ![Ap9](https://github.com/user-attachments/assets/9b0f159c-2a58-4371-b559-26b8f1bc2228)
+  ![Ap10](https://github.com/user-attachments/assets/59268d4f-b5f4-4fe8-a9e6-b08c4e27436a)
+  ![Ap11](https://github.com/user-attachments/assets/dfc5ddf3-2d6e-4753-9258-577e68a6e516)
+  ![Ap12](https://github.com/user-attachments/assets/10409dc3-eeda-480e-b7c1-2f2e7a87d532)
+  ![Ap13](https://github.com/user-attachments/assets/6c352081-2547-4ef9-bf9c-2055209e7c06)
+  ![Ap14](https://github.com/user-attachments/assets/4908e25e-6ef5-4b31-a70b-83cf1a7a2996)
+  ![Ap15](https://github.com/user-attachments/assets/9dc17d95-aa93-4360-a059-069b60e50961)
+  ![Ap16](https://github.com/user-attachments/assets/7811abd2-f6b5-4805-8fe0-5c8308414f9b)
+
 
 ---
 
@@ -235,22 +261,29 @@ Your task is to **set up secure, compliant, and productive access** to company r
    * **Intune \> Devices \> Monitor \> Compliance status** (We can view the overall compliance status of our devices and drill down into specific devices or policies to identify and resolve any non-compliance issues. )
 
    * Review any non-compliant devices (e.g., missing PIN, jailbroken)
+   ![m1](https://github.com/user-attachments/assets/6bf9735c-6ffd-4f7f-91a3-9d9506b88071)
 
 2. **Check Sign-in Logs**
 
    * Go to **Microsoft Entra Admin Center \> Monitoring \> Sign-in logs**
-
    * Filter by user or failure type
+   ![m2](https://github.com/user-attachments/assets/cef9b8ce-8c1b-4f5d-9a45-28ebaa7775f3)
+
 
 3. **Review Audit Logs**
 
    * Go to **Microsoft Entra \> Audit logs**
 
    * Track changes to users, roles, device enrollments, etc.
+   ![m3](https://github.com/user-attachments/assets/cd5d3a6c-efc4-482b-bb9b-60ab111f8c70)
 
      
 
 4. **Create Conditional Access (Entra ID)**  
-   * Go to **Microsoft Entra \> Protection \> Conditional Access.**  
+   * Go to **Microsoft Entra \> Protection \> Conditional Access.**
    * Create a policy to require MFA or block access from non-compliant devices.
+   ![m4](https://github.com/user-attachments/assets/012f6495-f27c-4efe-aef3-21afe1392cdb)
+   ![m5](https://github.com/user-attachments/assets/529eb20d-447a-446a-b32b-148101707c2b)
+   ![m6](https://github.com/user-attachments/assets/6d463f4e-d7c9-469e-a1f7-fbc6b3f171c7)
+
 
