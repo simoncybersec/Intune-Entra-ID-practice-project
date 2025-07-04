@@ -74,8 +74,6 @@ I volunteered as an IT admin for a small organization that uses various devices 
 ---
 
 ## 📂 Repository Contents
-- `/docs/` : Policy setup guides, troubleshooting steps.
-- `/screenshots/` : Visual references (optional).
 - `SCENARIO.md`: This scenario description.
 
 ---
