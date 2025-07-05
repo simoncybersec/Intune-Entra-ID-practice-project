@@ -31,7 +31,6 @@ I volunteered as an IT admin for a small organization that uses various devices 
 - Created multiple test user accounts.
 - Assigned appropriate roles and licenses.
 - Enabled MFA for all users via Microsoft Entra ID.
-- ![Enroll Windows Device](C:\Users\simon\Desktop\Professional Toolkit\Project for Intune.png) 
 
 ### Phase 2: Device Enrollment
 - Enrolled Windows, macOS, iOS, and Android devices into Intune.
